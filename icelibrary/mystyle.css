@@ -1,0 +1,11 @@
+
+body{
+	background-image: url(image/bgimage.jpg);
+}
+
+.header{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-style: bold;
+}
